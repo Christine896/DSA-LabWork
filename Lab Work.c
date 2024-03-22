@@ -1,3 +1,6 @@
+//SCT221-0378/2022 - NEEMA MUTANU
+//SCT221-0224/2022 - CHRISTINE WAMBUI 
+
 #include <stdio.h>
 #include <stdlib.h>
 
